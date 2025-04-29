@@ -25,7 +25,6 @@ Live Link - https://currency-converter-siv.netlify.app/
 
 ## 📷 Screenshot
 
-![Currency Converter Screenshot](Screenshot1.png)
 ![Currency Converter Screenshot](Screenshot2.png)
 
 
