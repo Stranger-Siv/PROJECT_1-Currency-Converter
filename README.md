@@ -1,8 +1,11 @@
 # 🌍 Currency Converter
 
 A simple yet powerful web-based Currency Converter built using **HTML**, **CSS**, and **JavaScript**. It uses real-time currency data from [Fawaz Ahmed's Currency API](https://github.com/fawazahmed0/currency-api) to provide accurate conversions between 200+ currencies.
-Live Link - https://currency-converter-siv.netlify.app/
 ---
+
+## Live Link
+
+https://currency-converter-siv.netlify.app/
 
 ## 🚀 Features
 
